@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (warrior-bot.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\vv\Desktop\paskaa\warrior-bot\examples\wow-classic-hunter-grinding-bot\main.cpp(81): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vv\Desktop\paskaa\warrior-bot\examples\wow-classic-hunter-grinding-bot\main.cpp(88): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vv\Desktop\paskaa\warrior-bot\examples\wow-classic-hunter-grinding-bot\main.cpp(95): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vv\Desktop\paskaa\warrior-bot\examples\wow-classic-hunter-grinding-bot\main.cpp(96): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vv\Desktop\paskaa\warrior-bot\examples\wow-classic-hunter-grinding-bot\main.cpp(97): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vv\Desktop\paskaa\warrior-bot\examples\wow-classic-hunter-grinding-bot\main.cpp(111): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vv\Desktop\paskaa\warrior-bot\examples\wow-classic-hunter-grinding-bot\main.cpp(118): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vv\Desktop\paskaa\warrior-bot\examples\wow-classic-hunter-grinding-bot\main.cpp(125): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vv\Desktop\paskaa\warrior-bot\examples\wow-classic-hunter-grinding-bot\main.cpp(132): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vv\Desktop\paskaa\warrior-bot\examples\wow-classic-hunter-grinding-bot\main.cpp(367): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vv\Desktop\paskaa\warrior-bot\examples\wow-classic-hunter-grinding-bot\main.cpp(368): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  warrior-bot.vcxproj -> C:\Users\vv\Desktop\paskaa\warrior-bot\Debug\huntard.exe

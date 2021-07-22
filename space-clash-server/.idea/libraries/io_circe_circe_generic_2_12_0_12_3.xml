@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="io.circe:circe-generic_2.12:0.12.3" type="repository">
+    <properties maven-id="io.circe:circe-generic_2.12:0.12.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/circe/circe-generic_2.12/0.12.3/circe-generic_2.12-0.12.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/circe/circe-core_2.12/0.12.3/circe-core_2.12-0.12.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/circe/circe-numbers_2.12/0.12.3/circe-numbers_2.12-0.12.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/typelevel/cats-core_2.12/2.0.0/cats-core_2.12-2.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/typelevel/cats-macros_2.12/2.0.0/cats-macros_2.12-2.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/typelevel/cats-kernel_2.12/2.0.0/cats-kernel_2.12-2.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

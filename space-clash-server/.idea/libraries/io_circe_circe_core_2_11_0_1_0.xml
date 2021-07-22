@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="io.circe:circe-core_2.11:0.1.0" type="repository">
+    <properties maven-id="io.circe:circe-core_2.11:0.1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/circe/circe-core_2.11/0.1.0/circe-core_2.11-0.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/spire-math/cats-core_2.11/0.1.2/cats-core_2.11-0.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/spire-math/cats-macros_2.11/0.1.2/cats-macros_2.11-0.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/mpilquist/simulacrum_2.11/0.3.0/simulacrum_2.11-0.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/spire-math/algebra_2.11/0.2.1/algebra_2.11-0.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/typelevel/machinist_2.11/0.3.0/machinist_2.11-0.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/spire-math/cats-std_2.11/0.1.2/cats-std_2.11-0.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/spire-math/algebra-std_2.11/0.2.1/algebra-std_2.11-0.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

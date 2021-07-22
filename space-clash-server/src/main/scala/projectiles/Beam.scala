@@ -1,0 +1,5 @@
+package projectiles
+
+class Beam {
+
+}

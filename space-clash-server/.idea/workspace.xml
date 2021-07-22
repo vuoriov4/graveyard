@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05e1061f-4286-495b-a48a-4787a81f8ac3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VhY3XhD8OlessqCj9ON7GOn6oJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="space-clash-server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="space-clash-server" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="space-clash-server [file:/home/vv/IdeaProjects/space-clash-server/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="space-clash-server-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3155413190552" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2306428249" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2912332145" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05e1061f-4286-495b-a48a-4787a81f8ac3" name="Default Changelist" comment="" />
+      <created>1577706594897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577706594897</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="32" width="800" height="674" key="#Project_Structure" timestamp="1577706930836">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="278" y="32" width="800" height="674" key="#Project_Structure/0.0.1366.741@0.0.1366.741" timestamp="1577706930836" />
+    <state x="416" y="128" width="524" height="481" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1577888603277">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="416" y="128" width="524" height="481" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.741@0.0.1366.741" timestamp="1577888603277" />
+    <state x="428" y="287" width="519" height="167" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1577708019900">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="428" y="287" width="519" height="167" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1366.741@0.0.1366.741" timestamp="1577708019900" />
+    <state x="480" y="55" width="782" height="625" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1577749311718">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="480" y="55" width="782" height="625" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.741@0.0.1366.741" timestamp="1577749311718" />
+    <state x="466" y="229" width="423" height="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578172616006">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="466" y="229" width="423" height="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.741@0.0.1366.741" timestamp="1578172616006" />
+    <state x="315" y="134" width="524" height="481" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1577749313900">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="315" y="134" width="524" height="481" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.741@0.0.1366.741" timestamp="1577749313900" />
+    <state x="538" y="127" width="423" height="481" key="FileChooserDialogImpl" timestamp="1578215548722">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="538" y="127" width="423" height="481" key="FileChooserDialogImpl/0.0.1366.741@0.0.1366.741" timestamp="1578215548722" />
+    <state width="863" height="100" key="GridCell.Tab.0.bottom" timestamp="1578506516462">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="863" height="100" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1578506516462" />
+    <state width="863" height="100" key="GridCell.Tab.0.center" timestamp="1578506516456">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="863" height="100" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1578506516456" />
+    <state width="863" height="100" key="GridCell.Tab.0.left" timestamp="1578506516453">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="863" height="100" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1578506516453" />
+    <state width="863" height="100" key="GridCell.Tab.0.right" timestamp="1578506516459">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="863" height="100" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1578506516459" />
+    <state x="281" y="3" width="1024" height="738" key="SettingsEditor" timestamp="1578216071811">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="281" y="3" width="1024" height="738" key="SettingsEditor/0.0.1366.741@0.0.1366.741" timestamp="1578216071811" />
+    <state x="376" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1578498147825">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="376" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.741@0.0.1366.741" timestamp="1578498147825" />
+    <state x="347" y="407" width="583" height="222" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577749307097">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="347" y="407" width="583" height="222" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.741@0.0.1366.741" timestamp="1577749307097" />
+  </component>
+</project>

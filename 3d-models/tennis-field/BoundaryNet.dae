@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.80.57 commit date:2019-04-17, commit time:19:26, hash:b46245470f79</authoring_tool>
+    </contributor>
+    <created>2019-07-30T00:19:42</created>
+    <modified>2019-07-30T00:19:42</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="Material_004-effect">
+      <profile_COMMON>
+        <newparam sid="BoundaryGridDiffuse_png-surface">
+          <surface type="2D">
+            <init_from>BoundaryGridDiffuse_png</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="BoundaryGridDiffuse_png-sampler">
+          <sampler2D>
+            <source>BoundaryGridDiffuse_png-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <diffuse>
+              <texture texture="BoundaryGridDiffuse_png-sampler" texcoord="UVMap"/>
+            </diffuse>
+            <reflectivity>
+              <float sid="specular">0.5</float>
+            </reflectivity>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images>
+    <image id="BoundaryGridDiffuse_png" name="BoundaryGridDiffuse_png">
+      <init_from>BoundaryGridDiffuse.png</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="Material_004-material" name="Material.004">
+      <instance_effect url="#Material_004-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Plane_005-mesh" name="Plane.005">
+      <mesh>
+        <source id="Plane_005-mesh-positions">
+          <float_array id="Plane_005-mesh-positions-array" count="48">-2.007194 -1 -1.41231e-6 1 -1 0 -2.007194 0.3215622 -1.38266e-6 1 0.3215622 0 -2.007195 -0.9999998 5.700664 0.9999991 -0.9999998 5.700665 -2.007195 0.3215625 5.700664 0.9999991 0.3215625 5.700665 -2.011855 -1.009637 -0.03009247 -2.011856 -1.009637 5.70778 -2.011855 0.3119251 -0.03009247 -2.011856 0.3119254 5.70778 0.996597 -1 -0.03030133 0.9965967 -0.9999998 5.707571 0.9965969 0.3215622 -0.03030133 0.9965966 0.3215624 5.707571</float_array>
+          <technique_common>
+            <accessor source="#Plane_005-mesh-positions-array" count="16" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Plane_005-mesh-normals">
+          <float_array id="Plane_005-mesh-normals-array" count="18">-4.69645e-7 0 1 4.79933e-7 0 -1 1 0 0 -1 0 0 -4.69645e-7 0 1 1 0 0</float_array>
+          <technique_common>
+            <accessor source="#Plane_005-mesh-normals-array" count="6" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Plane_005-mesh-map-0">
+          <float_array id="Plane_005-mesh-map-0-array" count="48">0.7500001 0.9899315 0.5000001 -0.3867965 0.75 -0.3867965 0.7500001 -0.3867965 1 0.9899315 1 -0.3867965 0.5000001 1 0.2500001 0 0.2500001 1 0 0 0.2500001 1 1.57856e-7 1 0.7500001 0.9899315 0.5000001 0.9899315 0.5000001 -0.3867965 0.7500001 -0.3867965 0.7500001 0.9899315 1 0.9899315 0.5000001 1 0.5000001 0 0.2500001 0 0 0 0.25 0 0.2500001 1</float_array>
+          <technique_common>
+            <accessor source="#Plane_005-mesh-map-0-array" count="24" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Plane_005-mesh-vertices">
+          <input semantic="POSITION" source="#Plane_005-mesh-positions"/>
+        </vertices>
+        <triangles material="Material_004-material" count="8">
+          <input semantic="VERTEX" source="#Plane_005-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Plane_005-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Plane_005-mesh-map-0" offset="2" set="0"/>
+          <p>1 0 0 2 0 1 0 0 2 6 1 3 5 1 4 4 1 5 10 2 6 9 2 7 8 2 8 13 3 9 14 3 10 12 3 11 1 4 12 3 4 13 2 4 14 6 1 15 7 1 16 5 1 17 10 5 18 11 5 19 9 5 20 13 3 21 15 3 22 14 3 23</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="BoundaryNet" name="BoundaryNet" type="NODE">
+        <matrix sid="transform">-1.27789e-5 3.98354e-7 9.113269 -25.87117 26.14538 1.947e-13 4.45422e-6 13.20425 0 -9.113269 3.98354e-7 2.911834 0 0 0 1</matrix>
+        <instance_geometry url="#Plane_005-mesh" name="BoundaryNet">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Material_004-material" target="#Material_004-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

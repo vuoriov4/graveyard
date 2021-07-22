@@ -1,0 +1,44 @@
+SPACE CLASH DEV DOCS
+
+	Space Clash is a mobile auto chess duel game that focuses on simplified graphics and rewarding tactical gameplay.
+
+GAMEPLAY
+
+	- Each player has a mother ship. When it is destroyed the game is over.
+	- Each round player's arrange their ships and are given 4 different cards to buy.
+	- Upgrades at 3x.
+
+ASSETS
+
+	Range 	Group	Fighter:	Fighters
+	Range 	Single	Fighter:	Cruiser
+	Close 	Group	Fighter:	Plasma Droids
+	Close 	Single	Fighter:	Battleship
+	Close 	Group	Siege:		Suicide Bombers
+	Close 	Single	Siege:		Destroyer
+	Spell	Single:				Death Ray
+	Spell	Group:				EMP
+	Spell	Group:				Shield
+
+CLIENT
+
+	Tutorial
+	Ranked
+	Projectiles, explosions and effects
+	Talents
+	Free gold for ads button
+	Buy gold view
+	Stats: Rank, Gold
+
+SERVER
+
+	Database
+	Websockets i/o
+	Room simulation
+	In game purchases
+
+DEPLOYMENT
+
+	Play Store
+	Homepage and web demo
+	Ads?

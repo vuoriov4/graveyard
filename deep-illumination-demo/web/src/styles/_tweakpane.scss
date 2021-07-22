@@ -1,0 +1,40 @@
+.tp-dfwv {
+	width: 300px !important;
+
+	&.full {
+		height: 100%;
+		top: 0px !important;
+		right: 0px !important;
+
+		.tp-rotv {
+			height: 100%;
+		}
+	}
+}
+
+.tp-rotv {
+	font-size: 12px !important;
+}
+
+.tp-fldv_t {
+	height: 32px !important;
+}
+.tp-fldv-expanded {
+	margin-bottom: 6px;
+}
+.tp-lblv {
+	padding: 2px 4px;
+}
+
+.tp-rotv, .tp-fldv_t, .tp-fldv_c {
+	border-radius: 0px !important;
+}
+
+.tp-lblv:not(:last-child) {
+	padding-bottom: 4px;
+	border-bottom: 1px solid #222 !important;
+}
+
+:root {
+  --tp-font-family: monospace;
+}
